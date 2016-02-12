@@ -1,0 +1,11 @@
+RPCIF_P2P [78bd44dd:554:6]<004:04:12:44.881197>[5]: EVENT 'ifup tap1 access_vm 1 00:00:00:00:00:01 ip 10.22.27.26' txn_id 2d8372fb pid 8820
+PE_89819501 [78bd44dd:554:8]<004:04:12:44.881208>[47]: dp_pgname=PE_89819501: Starting ifup_internal [ifup tap1 access_vm 1 00:00:00:00:00:01]
+PE_89819501 [78bd44dd:554:9]<004:04:12:44.881217>[48]: ifup_internal: dp_pgname=PE_89819501 port_id=1 access_vm 1 00:00:00:00:00:01
+pem_helper_92b5bb51 [78bd44dd:554:8]<004:04:12:44.881609>[6]: [notify_ifup_internal] ifc_name: PE_89819501+localhost+tap1, pif_fiber:506
+pem_helper_92b5bb51 [78bd44dd:433:8]<012:04:36:38.676509>[7]: print_ifc_event: pe[PE_64a7a021] port[0/1] ifc_type[ACCESS_VM]
+pem_helper_92b5bb51 [78bd44dd:433:8]<012:04:36:38.676523>[8]: print_ifc_event: tag1[] tag2[] tag3[] device[tap1] label[] phy_mac[00:00:00:00:00:01] bundle[] vlan[] uuid[1] nic[0] context[]
+pem_helper_92b5bb51 [78bd44dd:554:9]<004:04:12:44.881657>[9]: notify_ifup_internal_fpool: proposed physical interface name is 00:00:00:00:00:01+localhost+tap1
+pem_helper_92b5bb51 [78bd44dd:554:9]<004:04:12:44.911674>[30]: notify_ifup_internal_fpool: ifup for PE_89819501+localhost+tap1 name:IFC+ACCESS_VM+1+0 ended
+PE_89819501 [78bd44dd:554:9]<004:04:12:44.911691>[64]: ifup_internal: port_id=1 plum_id=2 ifc_cookie=00:00:00:00:00:01+localhost+tap1
+PE_89819501 [78bd44dd:554:8]<004:04:12:44.911704>[65]: ifup_latency: 30487 name: tap1 type: access_vm
+#PE_89819501 [78bd44dd:554:8]<004:04:12:44.911722>[66]: dp_pgname=PE_89819501: Completed ifup_internal [ifup tap1 access_vm 1 00:00:00:00:00:01]
