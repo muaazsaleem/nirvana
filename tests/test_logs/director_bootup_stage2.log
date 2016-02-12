@@ -1,0 +1,30 @@
+RPCIF_service_directory [10c044ae:1:6]<013:04:57:37.544513>[1]: EVENT 'service_directory boot' txn_id 526cc5e8 pid 8265
+ServiceDirectory [10c044ae:1:8]<018:16:11:45.004840>[1]: init:  my_station_id_ = 6a0f5151 ip 172.16.1.1
+RPCIF_service_directory [11111111:1:6]<013:04:57:37.544513>[1]: EVENT 'service_directory boot' txn_id 526cc5e8 pid 8266
+ServiceDirectory [11111111:1:8]<018:16:11:45.004840>[1]: init:  my_station_id_ = 6a0f5152 ip 172.16.1.2
+service_directory_2fa5b111 [10c044ae:1:9]<352:05:17:26.955312>[17]: [init]: rest_gateway is active
+service_directory_11111111 [11111111:1:9]<352:05:17:26.955312>[17]: [init]: rest_gateway is active
+service_directory_2fa5b111 [10c044ae:1:9]<352:05:17:30.085074>[50]: [init]: cdb is active
+service_directory_11111111 [11111111:1:9]<352:05:17:30.085074>[50]: [init]: cdb is active
+service_directory_2fa5b111 [10c044ae:146:9]<352:05:17:30.525054>[72]: [operator()]: health_monitor is active
+service_directory_11111111 [11111111:146:9]<352:05:17:30.525054>[72]: [operator()]: health_monitor is active
+service_directory_2fa5b111 [10c044ae:147:9]<352:05:17:32.971946>[75]: [operator()]: tenant_manager is active
+service_directory_11111111 [11111111:147:9]<352:05:17:32.971946>[75]: [operator()]: tenant_manager is active
+service_directory_2fa5b111 [10c044ae:148:9]<352:05:17:32.980794>[76]: [operator()]: tunnel_service is active
+service_directory_2fa5b111 [10c044ae:145:9]<352:05:17:38.073647>[83]: [operator()]: analytics_manager is active
+service_directory_2fa5b111 [10c044ae:1:9]<352:05:17:38.285355>[107]: [init]: CM is active
+service_directory_2fa5b111 [10c044ae:1:9]<352:05:17:38.847397>[166]: [init]: pem_master is active
+service_directory_2fa5b111 [10c044ae:1:9]<352:05:17:39.162342>[173]: [init]: vmw_agent is active
+service_directory_2fa5b111 [10c044ae:1:9]<352:05:17:39.483390>[207]: [init]: metadata is active
+service_directory_2fa5b111 [10c044ae:1:8]<352:05:17:39.963777>[210]: [init]: Requesting CM topology load
+service_directory_2fa5b111 [10c044ae:1:9]<352:05:17:39.963981>[211]: [init]: Setting topology ready status
+#service_directory_2fa5b111 [10c044ae:1:8]<352:05:17:40.467427>[224]: [init]: SD INIT Completed my_station_id_ = 2fa5b111 [2]
+service_directory_11111111 [11111111:148:9]<352:05:17:32.980794>[76]: [operator()]: tunnel_service is active
+service_directory_11111111 [11111111:145:9]<352:05:17:38.073647>[83]: [operator()]: analytics_manager is active
+service_directory_11111111 [11111111:1:9]<352:05:17:38.285355>[107]: [init]: CM is active
+service_directory_11111111 [11111111:1:9]<352:05:17:38.847397>[166]: [init]: pem_master is active
+service_directory_11111111 [11111111:1:9]<352:05:17:39.162342>[173]: [init]: vmw_agent is active
+service_directory_11111111 [11111111:1:9]<352:05:17:39.483390>[207]: [init]: metadata is active
+service_directory_11111111 [11111111:1:8]<352:05:17:39.963777>[210]: [init]: Requesting CM topology load
+service_directory_11111111 [11111111:1:9]<352:05:17:39.963981>[211]: [init]: Setting topology ready status
+#service_directory_11111111 [11111111:1:8]<352:05:17:40.467427>[224]: [init]: SD INIT Completed my_station_id_ = 2fa5b111 [2]

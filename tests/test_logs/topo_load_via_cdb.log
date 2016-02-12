@@ -1,0 +1,4 @@
+ConnectivityManager [1eec8df9:59:8]<361:08:34:42.161117>[6]: Requesting cdb to post config for :/0/connectivity/domain/Demo
+ConnectivityManager [1eec8df9:60:8]<361:08:34:42.162342>[7]: Dom0::domain_update_cb: Method 2 for domain key=Demo
+cdb_32c51021 [1eec8df9:146:8]<361:08:34:42.273075>[718]: request_config_post: Completed processing config request for /0/connectivity/domain/Demo in 111567 usec with status 0
+#ConnectivityManager [1eec8df9:59:8]<361:08:34:42.273215>[15]: request_config_post returned with status 0
