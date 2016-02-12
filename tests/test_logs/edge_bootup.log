@@ -1,6 +1,0 @@
-SELite_ac100102 [436c9376:1:9]<352:05:17:58.746522>[1]: [SELite]: Constructor
-SELite_ac100102 [436c9376:27:8]<352:05:17:58.749142>[9]: [nos_monitor]: my_station_id_ = 29976e41
-SELite_ac100102 [436c9376:27:9]<352:05:17:58.749163>[10]: [nos_monitor]: NOS Join Success; NOS Id=0x1496630
-SELite_ac100102 [436c9376:1:9]<352:05:17:58.846957>[11]: [launch_sem]: SEM is being launched
-SELite_ac100102 [436c9376:1:9]<352:05:17:58.847511>[14]: [launch_sem]: se_manager launched, pid :62
-#SELite_ac100102 [436c9376:44:9]<352:05:17:58.914915>[21]: [rx_sm_msg_handler]: SEM is ready
