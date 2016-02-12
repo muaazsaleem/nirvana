@@ -1,0 +1,3 @@
+SMLite_ac100101 [528d50c8:6:9]<352:05:18:28.367610>[28]: [child_exit_monitor]: PID 127 returned raw status 0x100 and exit type=[WIFEXITED: Terminated normally with status 1]
+SMLite_ac100101 [528d50c8:6:5]<352:05:18:28.367709>[29]: [child_exit_monitor]: Broker pid 127 exited with status 256
+#SMLite_ac100101 [528d50c8:6:5]<352:05:18:28.367728>[30]: [child_exit_monitor]: SMLite exiting because broker exited
